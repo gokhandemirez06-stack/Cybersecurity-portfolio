@@ -40,7 +40,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: linkedin.com/in/gökhan-demirez-9101b722
+    url: https://www.linkedin.com/in/g%C3%B6khan-demirez-9101b722/
   - title: github
     url: https://github.com/gokhandemirez06-stack
 
